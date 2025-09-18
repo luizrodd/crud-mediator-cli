@@ -1,7 +1,7 @@
 # crudcli
 
-[![npm version](https://img.shields.io/npm/v/crudcli.svg?color=blue)](https://www.npmjs.com/package/crudcli)
-[![npm downloads](https://img.shields.io/npm/dt/crudcli.svg?color=green)](https://www.npmjs.com/package/crudcli)
+[![npm version](https://img.shields.io/npm/v/crudclimediator.svg?color=blue)](https://www.npmjs.com/package/crudclimediator)
+[![npm downloads](https://img.shields.io/npm/dt/crudclimediator.svg?color=green)](https://www.npmjs.com/package/crudclimediator)
 [![license](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
 **crudcli** is a lightweight **Node.js CLI tool** that helps you scaffold C# **Command** and **CommandHandler** classes following the [MediatR](https://github.com/jbogard/MediatR) pattern.  
